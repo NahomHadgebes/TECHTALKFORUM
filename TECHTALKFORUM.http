@@ -1,0 +1,6 @@
+@TECHTALKFORUM_HostAddress = http://localhost:5242
+
+GET {{TECHTALKFORUM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
